@@ -1,82 +1,49 @@
-👋 Hola, soy un programador uruguayo 🇺🇾
+🌍 Desde 🇺🇾 Uruguay para el mundo
+🧠 Apasionado por la lógica y los sistemas complejos
+🚀 +7 años creando soluciones y rompiendo límites
+🧩 Me especializo en scripting, automatización, bajo nivel y diseño de interfaces oscuras
+🛠️ Trabajo con Rust, Python, C, C++, Bash, y herramientas de análisis dinámico
+📦 Creo proyectos únicos, útiles, y a veces... indetectables
 
-Apasionado por la tecnología, el bajo nivel, y la creación de herramientas que no siguen reglas.
+🔮 Mi filosofía
 
-👨‍💻 Sobre mí
+“El mejor código no solo funciona. El mejor código tiene propósito, diseño y alma.”
 
-🔥 Más de 5 años de experiencia en tecnología, scripting, automatización y sistemas de bajo nivel
+Nombre: raid.ll
+Tipo: Script modular avanzado
+Lenguaje base: Custom (.ll), Python, C++
+Autoría: 2 amigos. 5 meses. Mente + obsesión
+Estado: En desarrollo activo
 
-🧠 Obsesionado con el control absoluto del sistema y el diseño eficiente
+🧠 Diseñado con enfoque analógico: su diseño y navegación están inspirados en redes neuronales.
+🎯 Bypass a múltiples sistemas: FACEIT, VAC, y otras plataformas quedan atrás con su tecnología híbrida.
+🎨 Diseño visual: GUI minimalista con animaciones nerviosas y colores oscuros.
+🧬 Lenguaje .ll propio: ultra sintético, expresivo, casi simbiótico.
+📢 Comunidad oficial en Discord: discord.gg/SB2DUfdR2V
 
-🛠️ Experto en Rust, Python, C, C++, Bash, reverse engineering, debugging, scripting híbrido y entornos Linux
-
-🚀 Creador de raid.ll, una herramienta sin precedentes que redefine lo que puede hacer un script
-
-🧬 Defensor del diseño lógico, la precisión binaria y el poder del bajo nivel
-
-🇺🇾 Orgullosamente uruguayo con trayectoria internacional
-
-🧠 raid.ll — Una anomalía digital ⚙️
-
-Nacido del caos, diseñado por 2 mentes y construido en menos de 5 meses. raid.ll no es solo una herramienta: es una entidad autónoma que interpreta, ejecuta y transforma el sistema.
-
-⚡ Características principales
-
-✅ Intérprete personalizado, lenguaje propio de alto nivel `.ll`
-✅ Bypass de anti-cheats como VAC, FACEIT, ESEA y similares
-✅ Motor binario con ejecución directa en memoria y bajo uso de CPU
-✅ Modularidad extrema: todo es plug & play
-✅ Protección nativa contra tracing y hooks
-✅ GUI opcional, modo CLI brutalista
-✅ Capacidad de conexión remota
-✅ Uso en entornos auditados y pruebas de evasión
-
-🔬 Arquitectura
-
-🔧 Núcleo = Kernel vivo de ejecución
-
-🧠 Módulos = Subsistemas independientes (procesamiento, red, control)
-
-🧬 Scripts .ll = Impulsos eléctricos de comportamiento
-
-👁️ Consola = Terminal neuro-digital
-
-🧨 ¿Por qué raid.ll es diferente?
-
-Fue creado sin inversión, sin frameworks, sin bibliotecas externas innecesarias
-
-Es más potente que herramientas de empresas con años de desarrollo
-
-Contiene lógica inédita, analogías digitales e interfaces diseñadas como sistemas biológicos
-
-Usa su propio lenguaje, su propio interprete, su propia visión
-
-🧩 “Cada función es una sinapsis. Cada línea, un pulso eléctrico. Cada ejecución, un latido.”
-
-🔐 “El conocimiento es poder. raid.ll es una manifestación digital de esa premisa.”
-
-🔗 Comunidad oficial
-
-📌 Únete al Discord para demos, soporte, ideas, feedback y más:
+“No es un proyecto, es una anomalía digital.”
 
 
+🛠️ Tecnologías que uso
+🐍 Python — scripting, bots, automatización profunda
+🦀 Rust — seguridad y bajo nivel con eficiencia
+⚙️ C/C++ — máximo control, rendimiento puro
+🐧 Linux poweruser — manejo absoluto del entorno
+📡 Networking, reverse engineering, packet crafting
+🛡️ Tools: GDB, Wireshark, Valgrind, IDA Free, Frida
+📈 GitHub Stats & Actividad
+🎨 Estética & Concepto Visual
 
-🧰 Tecnologías que uso
 
-🐍 Python — scripting, automatización, integración
+Inspirado por el contraste entre el orden y el caos, raid.ll adopta una estética digital brutalista.
+Cada elemento visual fue diseñado para impactar: tipografías, tonos oscuros, simbolismo glitch.
 
-🦀 Rust — sistemas seguros y potentes
+☕ Contacto & comunidad
 
-⚙️ C/C++ — estructuras, memoria, performance extremo
+Discord: https://discord.gg/SB2DUfdR2V
+GitHub: github.com/devBendito
 
-🐚 Bash/Shell — automatización avanzada
 
-🧩 GDB, strace, ltrace, Make, CMake, Cargo, Ninja
+"Desde Uruguay. Sin fronteras. Scripting como arte, lógica como estilo."
 
-🛠️ Git, VSCode, CLion, Vim
 
-📊 GitHub Stats
-
-“Hay herramientas hechas por equipos... y luego está raid.ll — nacido del fuego de dos mentes obsesionadas con la perfección técnica.” 🔥
-
-“Esto no es un proyecto. Es una anomalía funcional, un glitch positivo, una obra binaria de arte.” 🧠
