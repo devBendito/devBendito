@@ -36,6 +36,6 @@
 + 🕹️ Usado para simulación, automatización y control avanzado
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="200" alt="Python Logo"/>
+  <img src="https://media.tenor.com/I6kN-6X7nhAAAAAj/programming.gif" width="350"/>
 </p>
 
