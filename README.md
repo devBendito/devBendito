@@ -14,10 +14,10 @@
 + ⚙️ Experto en C y C++: sistemas, performance y precisión quirúrgica
 + 🔥 Pasión por la optimización, el código limpio y los desafíos técnicos
 
-🛠️ Tecnologías y herramientas favoritas
+🔥 Proyecto destacado: raid.ll
+Un sistema modular de ejecución tipo low-level virtual scripting, con parsing ultra rápido y ejecución directa sobre memoria. Creado desde cero para velocidad y eficiencia.
 
-<p align="center"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
+<p align="center"> <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/> </p>
 
-📊 Estadísticas de GitHub
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="195"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical" height="195"/> </div>
+🛠️ Tecnologías y lenguajes que domino
+<p align="center"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/> </p>
