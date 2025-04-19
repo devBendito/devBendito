@@ -14,10 +14,30 @@
 + ⚙️ Experto en C y C++: sistemas, performance y precisión quirúrgica
 + 🔥 Pasión por la optimización, el código limpio y los desafíos técnicos
 
-🔥 Proyecto destacado: raid.ll
-Un sistema modular de ejecución tipo low-level virtual scripting, con parsing ultra rápido y ejecución directa sobre memoria. Creado desde cero para velocidad y eficiencia.
+### ⚙️ Proyecto Legendario: `raid.ll`
 
-<p align="center"> <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/> </p>
+> ⚡ `raid.ll` no es un simple proyecto... es una obra maestra en bajo nivel.  
+> Diseñado para el rendimiento puro, este sistema redefine los límites del control y la ejecución dinámica.
 
-🛠️ Tecnologías y lenguajes que domino
-<p align="center"> <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/> </p>
+#### 🧬 ¿Qué es raid.ll?
+
+- 🧠 Un sistema de ejecución de scripts ultra rápidos basado en bajo nivel
+- 🛠️ Escrito con precisión quirúrgica en Rust y C
+- 🔗 Permite acceso controlado y eficiente a estructuras de bajo nivel
+- 🧩 Modular, expansible y creado con visión a largo plazo
+
+#### 🚨 ¿Por qué es único?
+
+```diff
++ 🚀 Capaz de bypassear sistemas de protección como FACEIT y VAC (Acaddemicamente)
++ 🦾 Anticheat-aware: diseñado para camuflarse como un ninja
++ 🧬 Interpreta instrucciones personalizadas como una máquina virtual
++ 💡 Permite lógica dinámica, control de memoria y ejecución embebida
++ 🕹️ Usado para simulación, automatización y control avanzado
+
+<p align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="480" alt="Python coding gif"/>
+</p>
+
+
+
