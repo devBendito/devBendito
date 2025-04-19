@@ -36,8 +36,7 @@
 + 🕹️ Usado para simulación, automatización y control avanzado
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="480" alt="Python coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Python animation"/>
 </p>
-
 
 
