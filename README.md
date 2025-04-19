@@ -2,87 +2,81 @@
 
 Apasionado por la tecnología, el bajo nivel, y la creación de herramientas que no siguen reglas.
 
-👨‍💻 Experiencia sólida en scripting, sistemas embebidos, automatización y seguridad
+👨‍💻 Sobre mí
 
-🛠️ Dominio de lenguajes como Rust, Python, C, C++
+🔥 Más de 5 años de experiencia en tecnología, scripting, automatización y sistemas de bajo nivel
 
-📅 Más de 5 años en el mundo tech, desarrollando desde herramientas simples hasta sistemas avanzados
+🧠 Obsesionado con el control absoluto del sistema y el diseño eficiente
 
-🚀 Creador de raid.ll, un proyecto que representa mi obsesión por el control absoluto y el diseño puro
+🛠️ Experto en Rust, Python, C, C++, Bash, reverse engineering, debugging, scripting híbrido y entornos Linux
 
-🧠 Proyecto estrella: raid.ll 🧬
+🚀 Creador de raid.ll, una herramienta sin precedentes que redefine lo que puede hacer un script
 
-Una creación legendaria escrita por dos desarrolladores con visión clara, precisión quirúrgica y hambre de romper los límites. Diseñado, construido y optimizado en menos de 5 meses, sin equipos grandes, sin inversores, sin excusas.
+🧬 Defensor del diseño lógico, la precisión binaria y el poder del bajo nivel
 
-🔥 ¿Qué lo hace realmente único?
+🇺🇾 Orgullosamente uruguayo con trayectoria internacional
 
-+ Desarrollado en solo 5 meses por 2 personas
-+ Más completo que proyectos de empresas con inversión y equipos enteros
-+ Arquitectura de bajo nivel con ejecución directa en memoria
-+ Interprete propio, lenguaje personalizado y control absoluto
-+ Capaz de evadir entornos cerrados como FACEIT o VAC
-+ Sin dependencias pesadas, sin frameworks innecesarios
-+ Código limpio, modular, documentado y expandible
+🧠 raid.ll — Una anomalía digital ⚙️
 
-🧪 Características Técnicas
+Nacido del caos, diseñado por 2 mentes y construido en menos de 5 meses. raid.ll no es solo una herramienta: es una entidad autónoma que interpreta, ejecuta y transforma el sistema.
 
-🔧 Motor de ejecución embebido con control dinámico
+⚡ Características principales
 
-🛠️ Soporte para árboles, punteros, estructuras en memoria y manipulación binaria
+✅ Intérprete personalizado, lenguaje propio de alto nivel `.ll`
+✅ Bypass de anti-cheats como VAC, FACEIT, ESEA y similares
+✅ Motor binario con ejecución directa en memoria y bajo uso de CPU
+✅ Modularidad extrema: todo es plug & play
+✅ Protección nativa contra tracing y hooks
+✅ GUI opcional, modo CLI brutalista
+✅ Capacidad de conexión remota
+✅ Uso en entornos auditados y pruebas de evasión
 
-📡 Comunicación remota cliente-servidor o GUI opcional
+🔬 Arquitectura
 
-💡 Técnicas de obfuscación, ejecución stealth y protección contra tracing
+🔧 Núcleo = Kernel vivo de ejecución
 
-🔌 Modular, integrable con Python como entorno de scripting
+🧠 Módulos = Subsistemas independientes (procesamiento, red, control)
 
-🧬 Combinación de bajo nivel y scripting para el máximo control
+🧬 Scripts .ll = Impulsos eléctricos de comportamiento
 
-🎨 Interfaz, diseño y analogía viva
+👁️ Consola = Terminal neuro-digital
 
-raid.ll no solo funciona: tiene identidad propia. Su interfaz, su minimalismo brutalista y su comportamiento reflejan un organismo digital.
+🧨 ¿Por qué raid.ll es diferente?
 
-⚙️ Interfaz raw, directa y sin capas
-🎯 Feedback inmediato, estilo kernel-console
-🧠 Cada comando es una instrucción con propósito binario
-🎨 Sintaxis limpia inspirada en lenguaje natural del bajo nivel
+Fue creado sin inversión, sin frameworks, sin bibliotecas externas innecesarias
 
-Analogía del sistema:
+Es más potente que herramientas de empresas con años de desarrollo
 
-🧠 Núcleo = motor vivo de ejecución
+Contiene lógica inédita, analogías digitales e interfaces diseñadas como sistemas biológicos
 
-🫀 Módulos = órganos funcionales dinámicos
+Usa su propio lenguaje, su propio interprete, su propia visión
 
-🩸 Scripts .ll = impulsos eléctricos que controlan todo
+🧩 “Cada función es una sinapsis. Cada línea, un pulso eléctrico. Cada ejecución, un latido.”
 
-👁️ Consola = interfaz neuronal que habla con la máquina
+🔐 “El conocimiento es poder. raid.ll es una manifestación digital de esa premisa.”
 
-"Usar raid.ll no es ejecutar código, es dialogar con la máquina en su idioma más puro." 🤖
+🔗 Comunidad oficial
+
+📌 Únete al Discord para demos, soporte, ideas, feedback y más:
+
+
 
 🧰 Tecnologías que uso
 
-Estas son las herramientas que uso día a día y domino con fluidez:
+🐍 Python — scripting, automatización, integración
 
-Rust 🦀 — rendimiento, seguridad y control a bajo nivel
+🦀 Rust — sistemas seguros y potentes
 
-Python 🐍 — scripting rápido, herramientas, automatización
+⚙️ C/C++ — estructuras, memoria, performance extremo
 
-C / C++ ⚙️ — desarrollo de sistemas, estructuras, performance
+🐚 Bash/Shell — automatización avanzada
 
-Bash / Shell — scripting de sistemas, automatización
+🧩 GDB, strace, ltrace, Make, CMake, Cargo, Ninja
 
-GDB / Debuggers — análisis en runtime, ingeniería inversa
-
-Git — control de versiones para todo tipo de proyecto
-
-Make / CMake / Cargo — build systems sólidos
-
-VSCode / Vim / CLion — editores para cada ocasión
+🛠️ Git, VSCode, CLion, Vim
 
 📊 GitHub Stats
 
-“Hay herramientas hechas por equipos, y luego está raid.ll — nacido del fuego de dos mentes obsesionadas con la perfección técnica.” 🔥
+“Hay herramientas hechas por equipos... y luego está raid.ll — nacido del fuego de dos mentes obsesionadas con la perfección técnica.” 🔥
 
-
-
-
+“Esto no es un proyecto. Es una anomalía funcional, un glitch positivo, una obra binaria de arte.” 🧠
